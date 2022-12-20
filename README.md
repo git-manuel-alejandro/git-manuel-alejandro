@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://git-manuel-alejandro.github.io/
+
+Proyect created with react, pure css and sass
+https://golden-tarsier-5543a7.netlify.app/
 
 <!--
 **git-manuel-alejandro/git-manuel-alejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
